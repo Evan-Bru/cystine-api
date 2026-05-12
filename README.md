@@ -137,22 +137,28 @@ The intelligence layer is replaceable.
 # Project Structure (Planned)
 
 ```text
-cystine-api/
+cystine/
 │
-├── src/
-│   ├── api/
-│   ├── memory/
-│   ├── providers/
-│   ├── agents/
-│   ├── ingestion/
-│   ├── embeddings/
-│   └── utils/
-│
-├── vault/
-├── config/
-├── scripts/
-├── docs/
-└── README.md
+└── remnant_vault/
+    │
+    ├── src/
+    │   ├── api/
+    │   ├── memory/
+    │   ├── providers/
+    │   ├── agents/
+    │   ├── ingestion/
+    │   ├── embeddings/
+    │   └── utils/
+    │
+    ├── vault/
+    │
+    ├── config/
+    │
+    ├── scripts/
+    │
+    ├── docs/
+    │
+    └── README.md
 ```
 
 ---
