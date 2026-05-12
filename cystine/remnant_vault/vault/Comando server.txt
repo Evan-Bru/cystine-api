@@ -1,1 +1,1 @@
-npx @modelcontextprotocol/server-filesystem D:/Cystine
+npx @modelcontextprotocol/server-filesystem D:/Cystine/cystine/remnant_vault/vault
