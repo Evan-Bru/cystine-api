@@ -1,1 +1,0 @@
-As [[Autoridades]] são versões mais fracas dos poderes originais das Deidades

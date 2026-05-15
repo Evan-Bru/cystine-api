@@ -1,1 +1,0 @@
-Uma existência/força que não possui consciência, é movida pela crença, desejo e fé. Força oposta a [[Destruição]].

@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "9babcf85f0a2f4c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b651f1ea04a439",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acd5ff30af38ec64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63c2056f1060744e",
+    "type": "split",
+    "children": [
+      {
+        "id": "93946b32d2e44396",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e620e6a2ca5468a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "afd9f03dcf6331c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "63b75593426a952c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc0ef8395743d6ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "441e062373eeb1b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9531d8048b6dfe10",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "fc2643dfe9fb1b9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "a83a749ee6e9bfb0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "c66aa69f6cc5b4f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "316af765284232ca",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Toggle Footer Connections": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "smart-lookup:Smart Lookup: Open lookup view": false
+    }
+  },
+  "active": "acd5ff30af38ec64",
+  "lastOpenFiles": [
+    "Fogo.md",
+    "Quatro Elementos.md",
+    "Gaia.md",
+    "Elementais.md",
+    "Raças.md",
+    "Jack.md",
+    "YuanTi.md",
+    "Sobreviventes.md",
+    "Yuan-ti.md",
+    "Tabaxi.md",
+    "Tabaxis.md",
+    "Meio-elfos.md",
+    "Cosmologia Inicial.md",
+    "Autoridades.md",
+    "Alta Cúpula.md",
+    "Quinta Dimensão.md",
+    "Cosmologia Criação e Destruição.md",
+    "As Moiras.md",
+    "Quatro Cavaleiros.md",
+    "Vermelho.md",
+    "Os Arcobalenos.md",
+    "Deuses do Entremeio.md",
+    "Deuses.md",
+    "Destruição.md",
+    "Fim Do Mundo.md",
+    "Criação.md",
+    "Gimlé.md.429eec94af8b70ffba50966152f4097b.tmp",
+    "O Palácio.md.2a02bf9367ccb891669e6f0818d3cb5b.tmp"
+  ]
+}

@@ -1,0 +1,26 @@
+- [[Humanos]]
+- [[Elfos]]
+- [[Meio-elfos]]
+- [[Anões]]
+- [[Anjos]]
+- [[Demônios]]
+- [[Valkyrias]]
+- [[Tabaxi]]
+- [[Goliaths]]
+- [[Titãs]]
+- [[Dragões]]
+- [[Fadas]]
+- [[Elementais]]
+- [[Orcs]]
+- [[Leonin]] (leões)
+- [[Harengon]] (coelhos)
+- [[Loxodon]] (elefantes)
+- [[Tortle]] (tartarugas)
+- [[Aarakocra]] (aves)
+- [[Owlin]] (corujas)
+- [[Kenku]] (corvídeos)
+- [[Yuan-Ti]] (serpentes)
+- [[Eidol]] — Almas costuradas em corpos artificiais pelo [[Mestre das Marionetes]]
+- [[Werelords]] — Metamorfos criados por [[Gaia]], capazes de assumir forma animal
+
+Tags: [[Humanos]], [[Elfos]], [[Meio-elfos]], [[Anões]], [[Anjos]], [[Demônios]], [[Valkyrias]], [[Tabaxi]], [[Goliaths]], [[Titãs]], [[Dragões]], [[Fadas]], [[Elementais]], [[Orcs]], [[Leonin]], [[Harengon]], [[Loxodon]], [[Tortle]], [[Aarakocra]], [[Owlin]], [[Kenku]], [[Yuan-Ti]], [[Eidol]], [[Werelords]]

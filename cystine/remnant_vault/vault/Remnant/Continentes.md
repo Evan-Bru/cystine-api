@@ -1,2 +1,0 @@
-- [[A União]] - continente da União
-- [[A Perdição]] - continente da Perdição

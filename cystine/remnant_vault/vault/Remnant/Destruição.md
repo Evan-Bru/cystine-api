@@ -1,1 +1,0 @@
-Uma existência/força que não possui consciência, é movida pela necessidade, e equilíbrio. Força oposta a [[Criação]].
