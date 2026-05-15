@@ -47,7 +47,7 @@ const args = process.argv.slice(2);
 const command = args[0]; //start, list, etc
 const target = args[1]; // remmant, lotm, all
  
-// router start
+// -------------------- START --------------------
 if (command === "start"){
 
     if (target === "all") {
@@ -79,7 +79,8 @@ if (command === "start"){
 
 }
 }
-// router list
+
+// -------------------- LIST --------------------
     if (command === "list") {
     console.log("Mundos disponíveis:\n");
 
@@ -90,4 +91,49 @@ if (command === "start"){
     process.exit(0);
 }
 
+// -------------------- STOP --------------------
+if (command === "stop") {
 
+    if (!target) {
+        console.log("Use: node test.js stop <world>");
+        process.exit(0);
+    }
+
+    const proc = runningProcesses[target];
+
+    if (!proc) {
+        console.log(`Mundo '${target}' não está rodando.`);
+        process.exit(0);
+    }
+
+    console.log(`Parando mundo: ${target}`);
+
+    proc.kill("SIGTERM");
+
+    delete runningProcesses[target];
+
+    console.log(`Mundo '${target}' parado.`);
+
+    process.exit(0);
+}
+
+// -------------------- STATUS --------------------
+if (command === "status") {
+
+    const running = Object.keys(runningProcesses);
+
+    if (running.length === 0) {
+        console.log("Nenhum mundo está rodando.");
+        process.exit(0);
+    }
+
+    console.log("Mundos rodando:\n");
+
+    for (const name of running) {
+        console.log(`- ${name}`);
+    }
+
+    console.log(`\nTotal: ${running.length}`);
+
+    process.exit(0);
+}
