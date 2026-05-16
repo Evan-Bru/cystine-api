@@ -1,2 +1,0 @@
-npx @modelcontextprotocol/server-filesystem D:/Cystine/cystine/vaults/neural_vaults/Remnant
-npx @modelcontextprotocol/server-filesystem D:/Cystine/cystine/vaults/neural_vaults/LOTM
