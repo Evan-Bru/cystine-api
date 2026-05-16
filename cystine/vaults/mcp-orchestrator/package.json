@@ -1,0 +1,21 @@
+{
+  "name": "mcp-orchestrator",
+  "version": "1.0.0",
+  "main": "main.cjs",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^latest",
+    "electron-builder": "^latest"
+  },
+  "build": {
+    "appId": "com.cystine.mcp",
+    "productName": "MCP Control",
+    "win": {
+      "target": "nsis"
+    }
+  }
+}

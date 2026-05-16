@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body style="background:#111;color:white;font-family:sans-serif;text-align:center;padding-top:50px">
+
+<h1>MCP Control</h1>
+
+<button onclick="start()" style="padding:10px 20px">
+  Start MCPs
+</button>
+
+<script>
+const { ipcRenderer } = require("electron");
+
+function start() {
+    ipcRenderer.send("start-mcp");
+}
+</script>
+
+</body>
+</html>
